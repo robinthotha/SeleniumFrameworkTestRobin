@@ -28,6 +28,7 @@ public class ContactUsPageTest extends TestBase{
 		
 	}
 	
+	// ****This method will test the title of the Contact Us Page**** //
 	@org.testng.annotations.Test
 	public void validateSuccessMessageTest(){
 		
